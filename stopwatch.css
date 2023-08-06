@@ -1,0 +1,22 @@
+.timerbtn{
+    width: 80px;
+    height: 30px;
+    border: 3px solid;
+    border-radius: 12px;
+    background-color: black;
+    color: aliceblue;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#timeDisplay{
+    font-size: 75px;
+    color: rgb(0, 255, 106);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#timecontainer{
+    text-align: center;
+    border: 3px solid;
+    border-radius: 35px;
+    background-color: black;
+
+}
